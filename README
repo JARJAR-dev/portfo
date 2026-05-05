@@ -1,0 +1,3 @@
+A Python-based tool for finding open ports on a target IP address using the socket library. 
+
+Usage: Type python3 portscanner.py
