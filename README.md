@@ -1,1 +1,7 @@
 # portfo
+
+### 1. Python Port Scanner 
+A Python-based tool for finding open ports on a target IP address using the socket library. 
+Location: /portscanner/portscanner.py
+Usage: Type python3 portscanner.py
+
